@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+pyyaml
+
+# Embeddings
+sentence-transformers
+Pillow
+pytesseract
+
+# PDF handling
+PyMuPDF
+
+# Vector Store
+qdrant-client
+
+# LLM integration (optional)
+openai
+
+# Dev Tools
+pytest
+black
+flake8
+
+fastapi
+uvicorn
