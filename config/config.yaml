@@ -1,0 +1,9 @@
+embedding_model: "openai/clip-vit-base-patch32"
+text_model: "gpt-4o-mini"
+vector_store: "qdrant"
+qdrant:
+  host: "localhost"
+  port: 6333
+retrieval:
+  top_k: 5
+domain: "Healthcare-Finance"
